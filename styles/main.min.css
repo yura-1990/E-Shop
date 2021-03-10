@@ -1449,7 +1449,7 @@
   right: 50%;
   width: 28px;
   height: 28px;
-  background: url("../../images/Arrow.svg");
+  background: url("../images/Arrow.svg");
   background-position: center;
   background-repeat: no-repeat;
   -o-object-fit: cover;
@@ -2622,7 +2622,7 @@
 
 .clothes__add::after {
   content: '';
-  background: url(../../images/box.svg);
+  background: url(../images/box.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
